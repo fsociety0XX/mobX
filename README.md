@@ -1,2 +1,2 @@
 # mobX
-this repo contains a basic todo app built with react &amp; mobX
+it contains basic usage of mobx with react(context API).
